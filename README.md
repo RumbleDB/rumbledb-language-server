@@ -1,2 +1,3 @@
-# rumbledb-language-server
-Language server
+## What is this?
+
+This is a JSONiq Language Server.
